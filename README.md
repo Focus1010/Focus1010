@@ -12,7 +12,8 @@ I build at the intersection of Web3, data, and intelligence systems, focused on 
 - On-chain analytics and token design  
 - Smart contract architecture  
 - Account abstraction (ERC-4337)  
-- Data-driven decision systems in Web3  
+- Data-driven decision systems in Web3
+- AI agents
 
 ## Tech Stack
 - Blockchain: Solidity, EVM (Base, Ethereum)  
@@ -21,7 +22,7 @@ I build at the intersection of Web3, data, and intelligence systems, focused on 
 - Other: Git, REST APIs, data analysis  
 
 ## What I Care About
-I focus on building systems that simplify complexity, expose hidden risks or opportunities, and help people make better decisions on-chain.
+I focus on building systems that simplify complexity, expose hidden risks or opportunities, and help people make better decisions on-chain. 
 
 ## Open to
 - Collaborations on Web3 tools or infrastructure  
