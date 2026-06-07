@@ -3,9 +3,9 @@
 I build at the intersection of Web3, data, and intelligence systems, focused on turning complex on-chain activity into clear, usable insights.
 
 ## Tech Stack
-- Blockchain: Solidity, EVM (Base, Ethereum)  
+- Blockchain: Solidity, EVM (Base, Ethereum, Arbitrum), Solana 
 - Frontend: JavaScript, React, Typescript, (dApps)  
-- Tools: Hardhat, Foundry, Ethers.js  
+- Tools: Hardhat, Foundry, Ethers.js, Anchor
 - Other: Git, REST APIs, data analysis  
 
 ## Open to
