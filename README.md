@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Focus 
+# Hi, I'm Focus (⁠^⁠^⁠)
 
 **I build at the intersection of Web3, data, and intelligence systems, turning complex on-chain activity into clear, usable insights.**
 
@@ -67,5 +67,4 @@
 | ![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) | justfocus672@gmail.com |
 
 <div align="center">
-
 </div>
